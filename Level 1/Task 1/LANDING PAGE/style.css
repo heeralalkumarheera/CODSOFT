@@ -87,7 +87,13 @@ header {
   border-radius: 5px;
   text-decoration: none;
 }
-
+marquee{
+  color: #f01111;
+  font-size: 1.2rem;
+  font-style: oblique;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
 /* Feature Section */
 .features {
   padding: 4rem 0;
